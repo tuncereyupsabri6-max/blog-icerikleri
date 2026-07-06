@@ -1,6 +1,26 @@
-   const REMOTE_BLOG_CONFIG = {
-     owner: "tuncereyupsabri6-max",
-     repo: "blog-icerikleri",
-     branch: "main",
-     contentPath: "blogs",
-   };
+[
+  "blog-mukemmel-formullu-agiz-ve-dis-bakim-serisi",
+  "blog-hediyelik-kolonya-setleri",
+  "blog-her-an-yaninda-kolonya",
+  "blog-dogru-sabun-secimi",
+  "blog-kolonya-kokulariyla-turkiye-turu",
+  "blog-vegan-urun-nedir",
+  "blog-kolonya-nasil-yapilir",
+  "blog-mevsim-gecislerinde-cilt-bakiminin-5-puf-noktasi",
+  "biberiye-suyu-nasil-kullanilir-cilt-ve-saca-faydalari",
+  "dogru-roll-on-deodorant-kullanimi-nasil-olmalidir",
+  "dis-macunu-secimi-nasil-yapilmalidir-ihtiyaca-ozel-bakim-rehberi",
+  "kolonya-cesitleri-nelerdir-koku-tercihinize-gore-stil-rehberi",
+  "kolonyanin-faydalari-nelerdir-kullanim-alanlari-ve-puf-noktalari",
+  "parfum-secimi-nasil-yapilir-2026-rehberi-ve-puf-noktalari",
+  "sac-sirkesi-nedir-nasil-kullanilir",
+  "koku-hafizasi-ve-kokularin-ruh-halimiz-uzerindeki-buyulu-etkisi",
+  "anneler-gunu-hediyesi-bakim-ve-zarafet-dolu-anlamli-secenekler",
+  "bebek-cilt-bakiminda-vegan-ve-dogal-ozler-iceren-urunler",
+  "ev-temizliginde-dogal-ve-etik-secimler-daha-ferah-bir-yasam-alani",
+  "rutininizi-frambuazli-bakim-ile-taclandirin",
+  "frambuazli-sac-bakimi-dogal-ozler-iceren-urunlerle-canli-ve-parlak-saclar",
+  "yaz-aylarinda-ferahlik-cilt-dostu-roll-on-ve-deodorant-secimi-rehberi",
+  "sac-bakiminda-yeni-nesil-dokunus-bitki-sulari-ile-canli-ve-bakimli-saclar",
+  "japon-kiraz-cicegi-kokusu-faydalari-ve-cilde-etkileri-nelerdir"
+]
