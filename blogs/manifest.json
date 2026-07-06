@@ -1,0 +1,6 @@
+   const REMOTE_BLOG_CONFIG = {
+     owner: "tuncereyupsabri6-max",
+     repo: "blog-icerikleri",
+     branch: "main",
+     contentPath: "blogs",
+   };
