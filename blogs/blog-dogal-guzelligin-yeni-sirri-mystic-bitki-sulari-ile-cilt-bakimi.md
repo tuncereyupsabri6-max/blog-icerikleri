@@ -1,5 +1,6 @@
 ---
 title: "Doğal Güzelliğin Yeni Sırrı: Mystic Bitki Suları ile Cilt Bakımı"
+img: "https://cro-anatomi.s3.eu-north-1.amazonaws.com/MYSTIC-BITKI-SULARI-1600X584.jpg"
 ---
 
 Cildin gün boyunca maruz kaldığı çevresel etkenler, düzenli bakım ihtiyacını daha belirgin hale getirir. Hafif dokulu bakım ürünleriyle oluşturulan rutinler, ferah bir his kazanılmasına katkı sağlar. Günlük bakım alışkanlıklarına eklenen bitki suları, doğal içeriklerden ilham alan yapısıyla cildi destekleyen pratik seçenekler arasında yer alır. Düzenli kullanım, cildin daha canlı ve bakımlı görünmesine yardımcı olurken bakım rutininin keyifli bir parçaya dönüşmesini sağlar.
