@@ -2,6 +2,7 @@
 
 title: "Okula Dönüş Başlıyor: Çantalarda Yer Alması Gereken Temizlik Rehberi"
 img: "https://cro-anatomi.s3.eu-north-1.amazonaws.com/OKULA-DONUS-BASLIYOR-1600X584.jpg"
+
 -------
 
 Yaz tatilinin ardından okul temposuna yeniden uyum sağlamak, çocukların günlük alışkanlıklarını da yeniden düzenlemeyi gerektirir. Ders programı, beslenme düzeni ve uyku saatleri kadar kişisel bakım rutini de bu sürecin önemli parçalarından biridir. Gün içinde farklı yüzeylerle temas eden çocukların temizlik alışkanlıklarını desteklemek hem kendileri hem de çevreleri açısından önem taşır. Planlı bir okula dönüş hazırlığı yapılırken okul çantasında yer alacak temizlik ürünlerinin de önceden belirlenmesi, ailelerin işini kolaylaştırır.
