@@ -1,4 +1,3 @@
-
 ---
 title: "Okula Dönüş Başlıyor: Çantalarda Yer Alması Gereken Temizlik Rehberi"
 image: "https://cro-anatomi.s3.eu-north-1.amazonaws.com/OKULA-DONUS-BASLIYOR-1600X584.jpg"
